@@ -1,4 +1,4 @@
-# React Ape Previe
+# React Ape Preview
 
 Read and parse code to render a preview:
 
